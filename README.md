@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Salim Shaikh ~ 👨🏻‍💻 
 ---
 - I love Programming, solving problems, puzzles and riddles.
-- I like to build fun and useful stuff, I like it more when I would have to write programs to solve problems, hence I like competitive programming. What I like even more is when I learn about a concept using some of these problems or riddles, because the best way to learn is by doing!
+- I like to build fun and useful stuff, I like it more when I would have to write programs to solve problems, hence I like competitive programming. 
 - My academic achievement includes being able to train a Residual Networks (ResNet), on dataset of satellite images.
 - I am interested in making contributions towards Machine Learning, Deep Learning, and also in applying these solutions on real world datasets.
 - I am constantly learning and exploring new technical topics.
